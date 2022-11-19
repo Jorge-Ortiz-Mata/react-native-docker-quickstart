@@ -1,8 +1,10 @@
 version: '3.9'
 services:
-  app-01-goals:
-    container_name: app-01-goals-container
+  development:
+    container_name: myapp
     build:
       context: ./
       dockerfile: Dockerfile
       target: development
+    volumes:
+      - /workspaces/myapp/node_modules
