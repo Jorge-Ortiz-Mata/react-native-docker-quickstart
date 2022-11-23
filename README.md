@@ -8,7 +8,7 @@ React native and Docker Quickstart offers basic configuration you can use to cre
 
 There are some specific things you must need to start building your mobile apps.
 
-1. VS Code instal in your local machine.
+1. VS Code installed in your local machine.
 2. Install **Dev Containers** VS Code extension.
 3. Have Docker installed and running.
 
