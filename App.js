@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>¡Start from here!</Text>
-      <Text style={{fontWeight: 600}}>/App.js</Text>
+      <Text style={{fontWeight: '600'}}>/App.js</Text>
       <StatusBar style="auto" />
     </View>
   );
