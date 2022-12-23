@@ -11,6 +11,7 @@ WORKDIR /workspaces/myapp
 FROM base as development
 
 RUN apt-get update \
+  && apt-get install -y --no-install-recommends \
   git
 
 COPY package.json .
