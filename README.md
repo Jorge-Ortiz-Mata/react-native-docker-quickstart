@@ -1,4 +1,4 @@
-# React Native and Docker Quickstart.
+# React Native, Docker and TailwindCSS Quickstart.
 
 ![](./images/01.png)
 
